@@ -1,6 +1,6 @@
 /*
 Earliest Date
-Eliandro Pizzonia 251363956
+Eliandro Pizzonia 
 CS 2211
 
 this program will output the earliest entered date based on all the dates that the user has entered
